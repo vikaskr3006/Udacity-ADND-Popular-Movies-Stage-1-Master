@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="app_title">The Movie DB</string>
+    <string name="activity_title_popular">Popular Movies</string>
+    <string name="activity_title_top_rated">Top Rated Movies</string>
+    <string name="detail_activity_title">Movie Details</string>
+    <string name="activity_title_text_key">activity_title_text</string>
+
+    <!--TODO Enter your API Key here-->
+    <string name="api_key"></string>
+    <string name="movie_base_url">https://api.themoviedb.org/3/movie/</string>
+    <string name="image_base_url">http://image.tmdb.org/t/p/w185</string>
+
+    <string name="sort_by">Sort by..</string>
+    <string-array name="sorting_options">
+        <item>Sort By..</item>
+        <item>Popularity</item>
+        <item>Top Rated</item>
+    </string-array>
+
+    <string name="pref_sort_type_key">SORT_TYPE</string>
+    <string name="sort_popularity">popular</string>
+    <string name="sort_top_rated">top_rated</string>
+
+
+    <string name="parcel_movie">PARCEL_MOVIE</string>
+
+    <string name="retry_button_text">RETRY</string>
+
+    <string name="example_movie_title">Fight Club</string>
+    <string name="example_movie_rating">8.4/10</string>
+    <string name="example_movie_release_date">1999-10-15</string>
+    <string name="example_movie_overview">A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground fight clubs forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.</string>
+    <string name="movie_rating_label">Rating</string>
+    <string name="movie_release_date_label">Release Date</string>
+
+
+</resources>
+
+
